@@ -5,6 +5,6 @@ while (you == "Y")
 	puts "I miss you more."
 end
 
-while (you =="N")
+while (you == "N")
 	puts "I still miss you."
 end
